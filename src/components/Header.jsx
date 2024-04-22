@@ -38,7 +38,7 @@ const Header = () => {
                     <div className="contenedor-encabezado">
                         <div className="texto-encabezado">
                             <h2>Visítanos!</h2>
-                            <a href="#" className="btn bordes">Ir de compras</a>
+                            <a href="#menu" className="btn bordes">Ir de compras</a>
                         </div>
                         <video autoPlay loop muted>
                             <source src={Video} />

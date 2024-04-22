@@ -20,7 +20,6 @@ const Seccion = () => {
                             Nuestro equipo está aquí para ayudarte en cada paso del camino, desde encontrar el atuendo perfecto hasta descubrir los mejores productos de belleza para realzar tu belleza natural. Así que ven y únete a nosotros en este emocionante viaje de estilo, belleza y diversión. ¡Te esperamos con los brazos abiertos en nuestro mundo de moda y alegría!
 
                             .</p>
-                        <a href="#" className="btn btn-verde">Leer Bíografia</a>
                     </div>
                     <div className="imagen-chef">
                         <img src={Imagen} alt="fotografia del chef"/>

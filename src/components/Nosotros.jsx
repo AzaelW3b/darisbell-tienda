@@ -17,7 +17,7 @@ const Nosotros = () => {
                         servicio al cliente nos impulsa a superar sus expectativas en cada visita. ¡Disfrute explorando nuestra
                         colección y háganos parte de su estilo!
                     </p>
-                    <a href="#" className="btn btn-rojo">Contactar</a>
+                    <a href="#tienda" className="btn btn-rojo">Contactar</a>
                 </div>
                 <div className="imagenes-nosotros">
                     <div className="imagen1">
